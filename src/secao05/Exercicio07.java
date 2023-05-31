@@ -15,7 +15,7 @@ public class Exercicio07 {
             System.out.println("Eixo Y");
         } else if (y == 0.0) {
             System.out.println("Eixo X");
-        } else if (x > 0 && y > 0) {
+        } else if (x > 0.0 && y > 0.0) {
             System.out.println("Q1");
         } else if (x < 0.0 && y < 0.0) {
             System.out.println("Q3");
